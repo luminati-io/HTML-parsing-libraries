@@ -109,4 +109,11 @@ An HTML parser processes HTML documents, converting them into a structured data 
 
 ## Conclusion
 
-This guide explored the best HTML parsing libraries. Your choice depends on your programming language and project needs. Remember, websites may use anti-bot technologies, but tools like Bright Data's proxies can help you retrieve HTML for parsing.
+This guide explored the best HTML parsing libraries. Your choice depends on your programming language and project needs. Remember, websites may use anti-bot technologies, but tools like [Bright Data's proxy services](https://brightdata.com/proxy-types) or [Web Scrapers](https://brightdata.com/products/web-scraper) can help you retrieve HTML for parsing.
+
+Learn how to scrape specific websites:
+
+- [**Amazon**](https://github.com/luminati-io/LinkedIn-Scraper)
+- [**LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
+- [**Google Maps**](https://github.com/luminati-io/Google-Maps-Scraper)
+- [**Google News**](https://github.com/luminati-io/Google-News-Scraper)
